@@ -31,7 +31,7 @@ class Gecka_Terms_Ordering {
 
     private static $instance;
 
-    private static $taxonomies = array('category');
+    private static $taxonomies = array('category', 'xtt-pa-kits');
     
     private static $plugin_url;
     private static $plugin_path;
